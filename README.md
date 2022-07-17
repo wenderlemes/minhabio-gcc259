@@ -1,4 +1,6 @@
 # minhabio-gcc259
+![Avatar Aang](https://upload.wikimedia.org/wikipedia/pt/thumb/8/86/Avatar_Aang.png/250px-Avatar_Aang.png)
+
 Biografia de  Wender Lemes
 
 ## Dados Pessoais
